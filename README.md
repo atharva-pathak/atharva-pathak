@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paaathyaaa
+- 👋 Hi, I’m @atharva-pathak
 - 👀 I’m interested in Data Science/ Machine learning internship opportunities
 - 🌱 I’m currently pursuing MSc Data Science at SDBI, Patkar College, University of Mumbai
 - 📫 How to reach me atharvapathak99@gmail.com
